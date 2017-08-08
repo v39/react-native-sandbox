@@ -1,0 +1,1 @@
+react-navtive file system ,accept other application file
