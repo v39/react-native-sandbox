@@ -7,7 +7,11 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <React/RCTBridgeModule.h>
 
-@interface RCTSandbox : NSObject
+@interface RCTSandboxBridgeModel : NSObject <RCTBridgeModule>
+
+
+
 
 @end
